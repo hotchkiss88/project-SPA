@@ -1,0 +1,32 @@
+// utils
+@import 'utils/variables';
+@import 'utils/mixins';
+// base
+@import 'base/normalize';
+@import 'base/global';
+//layout
+//grid
+@import 'layout/grid';
+// nav
+@import 'layout/nav';
+// header
+@import 'layout/header';
+// about
+@import 'layout/about';
+//services
+@import 'layout/services';
+// team
+@import 'layout/team';
+// appointment
+@import 'layout/appointment';
+// contact
+@import 'layout/contact';
+// footer
+@import 'layout/footer';
+// components
+// buttons
+@import 'components/buttons';
+// infoboxes
+@import 'components/infoboxes';
+// inputs
+@import 'components/inputs';
